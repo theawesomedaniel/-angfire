@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angfire-1d9ac": {
+      "hosting": {
+        "angfire": [
+          "angfire-1d9ac"
+        ]
+      }
+    }
+  }
+}
